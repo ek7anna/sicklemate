@@ -1,0 +1,58 @@
+{
+    "entries": [
+        {
+            "fatigue_level": 6,
+            "hydration_ml": 1500,
+            "steps_count": 4500,
+            "temperature": 31.2,
+            "altitude": 72,
+            "timestamp": "2025-08-02T20:52:27.811480"
+        },
+        {
+            "fatigue_level": 6,
+            "hydration_ml": 1500,
+            "steps_count": 4000,
+            "temperature": 31.5,
+            "altitude": 70,
+            "timestamp": "2025-08-03T01:03:40.192522"
+        },
+        {
+            "fatigue_level": 6,
+            "hydration_ml": 1500,
+            "steps_count": 4000,
+            "temperature": 31.5,
+            "altitude": 70,
+            "timestamp": "2025-08-03T01:05:08.656819"
+        },
+        {
+            "fatigue_level": 6,
+            "hydration_ml": 1500,
+            "steps_count": 4000,
+            "temperature": 31.5,
+            "altitude": 70,
+            "timestamp": "2025-08-03T01:09:03.150152"
+        },
+        {
+            "fatigue_level": 6,
+            "hydration_ml": 1500,
+            "steps_count": 4000,
+            "temperature": 31.5,
+            "altitude": 70,
+            "timestamp": "2025-08-03T01:29:02.662760"
+        },
+        {
+            "fatigue_level": 5,
+            "hydration_ml": 1200,
+            "temperature": 32,
+            "steps_count": 3000,
+            "timestamp": "2025-08-03T01:42:32.608661"
+        },
+        {
+            "fatigue_level": 5,
+            "hydration_ml": 1200,
+            "temperature": 32,
+            "steps_count": 3000,
+            "timestamp": "2025-08-03T01:45:06.675658"
+        }
+    ]
+}
